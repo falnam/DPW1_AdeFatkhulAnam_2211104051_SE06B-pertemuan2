@@ -1,0 +1,100 @@
+.nabvar-custom {
+    height: 50px;
+    padding: 30px;
+  }
+  
+  .navbar-nav {
+    gap: 20px;
+  }
+
+.banner {
+    background: url("img/bg.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.display-1 {
+    color: #000;
+}
+
+.text-center {
+    color: #000;
+}
+
+.display-3 {
+    color: #000;
+}
+
+.display-6 {
+    color: #000;
+}
+
+.btn {
+    background-color: #1e0fbe;
+    color: white;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #000;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+.tim img {
+    width: 250px;
+    border: 10px solid #CCCCCC;
+}
+
+a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #FFF;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
+
+.client img {
+    height: auto;
+    max-height: 50px;
+}
+
+.kontak {
+    background: url(img/bg.jpg) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+}
+
+#result {
+    background-color: #d4edda;
+    border: 1px solid #c3e6cb;
+    border-radius: .25rem;
+    padding: 1rem;
+    margin-top: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .alert-success {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+  }
+  
